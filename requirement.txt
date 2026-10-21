@@ -1,0 +1,22 @@
+# ============================================
+#  Automated Web Scanner - Requirements
+# ============================================
+#
+# Project : Automated Web Scanner
+# Author  : Neha Khatri
+# Course  : BCA, Vision College of Commerce
+# Bootcamp: IBM SkillsBuild National Cybersecurity Bootcamp
+#
+# Python version : Python 3
+# External packages : NONE
+#
+# This project uses only Python's built-in standard library:
+#   - urllib.request
+#   - urllib.parse
+#   - urllib.error
+#   - sys
+#
+# Nothing needs to be installed with pip.
+#
+# To run the scanner:
+# python Neha_AutomatedWebScanner.py
